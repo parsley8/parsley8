@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parsley8
 - 👀 I’m interested in JavaScript, Angular and Swift
-- 🌱 I’m currently learning JavaScript, Angular
+- 🌱 I’m currently learning JavaScript, NestJS and Angular
 - 💞️ I’m looking to collaborate on innovative projects.
 - 📫 How to reach me? zila.petrzilka@gmail.com
 
